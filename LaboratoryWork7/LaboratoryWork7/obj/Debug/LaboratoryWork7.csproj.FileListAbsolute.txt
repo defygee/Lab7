@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\bin\Debug\LaboratoryWork7.exe.config
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\bin\Debug\LaboratoryWork7.exe
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\bin\Debug\LaboratoryWork7.pdb
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\obj\Debug\LaboratoryWork7.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\obj\Debug\LaboratoryWork7.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\obj\Debug\LaboratoryWork7.exe
+C:\Users\Student\source\repos\LaboratoryWork7\LaboratoryWork7\obj\Debug\LaboratoryWork7.pdb
